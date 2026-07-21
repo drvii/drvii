@@ -19,3 +19,9 @@
   <img src="images/mp3.gif" />
   <img src="images/cli.gif" />
 </div>
+
+<!-- banner ad -->
+<div align="center">
+  <br />
+  <img src="images/dice-2000.gif" width="280" height="36" />
+</div>
