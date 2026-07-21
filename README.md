@@ -1,16 +1,21 @@
-## Hi there 👋
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="images/wordart.png" style="max-width: 100%;" alt="Welcome to my Github" />
+  <br />
+  <br />
+  <img height="50" alt="Thanks for visiting my profile!" src="images/marquee.svg" />
+</div>
 
-<!--
-**drvii/drvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Web Badges -->
+<div align="center">
+  <br />
+  <img src="images/coffee.png" />
+  <img src="images/gmail.gif" />
+  <img src="images/apple.gif" />
+  <img src="images/flash.gif" />
+  <img src="images/homebrew.gif" />
+  <img src="images/anime.gif" />
+  <img src="images/funblog.gif" />
+  <img src="images/mp3.gif" />
+  <img src="images/cli.gif" />
+</div>
